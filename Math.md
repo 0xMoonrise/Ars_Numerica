@@ -1,7 +1,7 @@
 Simplifica aplicando leyes de exponentes:
 1. $$(m^4)^5 = m^{4 \cdot 5} = m^{20}$$
 2. $$(3^{12})^3 = 3^{12 \cdot 3} = 3^{36}$$
-3. $$(x^9)^0 = x^{9 \cdot 0} = x^0 = 1$$
+3. $$(x^9)^0 = x^{9 \cdot 0} = x^0 = 1 \quad \forall x \in \mathbb{R} \setminus \{0\}$$
 4. $$(4^3)^{-1} = 4^{3 \cdot -1} = 4^{-3} = \frac{1}{4^3} = \frac{1}{64}$$
 
 Simplifica aplicando leyes de exponentes:
@@ -14,7 +14,7 @@ Simplifica aplicando leyes de exponentes:
 
 1. $$\frac{x^4}{x^2} = x^{4-2} = x^2$$
 2. $$\frac{y^{19}}{y^{18}} = y^{19-18} = y$$
-3. $$\frac{x^{63}}{x^{63}} = x^{63-63} = x^0 = 1$$
+3. $$\frac{x^{63}}{x^{63}} = x^{63-63} = x^0 = 1 \quad \forall x \in \mathbb{R} \setminus \{0\}$$
 
 Simplifica aplicando leyes de exponentes:
 
