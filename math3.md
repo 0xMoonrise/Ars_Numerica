@@ -7,6 +7,7 @@
 \frac{3x^3z^2}{2y^0} &= \frac{3x^3z^2}{2} \tag{1.4}
 \end{align}
 ```
+---
 - Ejercicios 2: Simplifica
 ```math
 \begin{align}
@@ -18,6 +19,7 @@ x^{-2} &= \frac{1}{x^2} \tag{2.3} \\
 \frac{x^{-2}}{y^{-5}} &= \frac{y^5}{x^2} \tag{2.6}
 \end{align}
 ```
+---
 - Ejercicios 3: Simplifica
 ```math
 \begin{align}
@@ -27,6 +29,7 @@ x^{-2} &= \frac{1}{x^2} \tag{2.3} \\
 \frac{8x^{-3}x^2}{y^{-4}} &= \frac{8y^4}{x} \tag{3.4}
 \end{align}
 ```
+---
 - Simplifica aplicando leyes de exponentes:
 ```math
 \begin{align}
@@ -36,6 +39,7 @@ x^2 + x^5 &= x^2(1 + x^3) \tag{4.3} \\
 x^{-2}x^{-3}x^{-1}x^5 &= x^{-2-3-1+5} = x^{-1} \tag{4.4} 
 \end{align}
 ```
+---
 - Simplifica aplicando leyes de exponentes:
 ```math
 \begin{align}
@@ -45,6 +49,7 @@ x^{-2}x^{-3}x^{-1}x^5 &= x^{-2-3-1+5} = x^{-1} \tag{4.4}
 (4^3)^{-1} &= 4^{-3 \cdot 1} = 4^{-3} = \frac{1}{4^3} = \frac{1}{64} \tag{5.4}
 \end{align}
 ```
+---
 - Simplifica aplicando leyes de exponentes:
 ```math
 \begin{align}
@@ -54,6 +59,7 @@ x^{-2}x^{-3}x^{-1}x^5 &= x^{-2-3-1+5} = x^{-1} \tag{4.4}
 (x+y)^2 &= x^2 + 2xy + y^2 \tag{6.4}
 \end{align}
 ```
+---
 - Simplifica aplicando leyes de exponentes:
 ```math
 \begin{align}
@@ -63,6 +69,7 @@ x^{-2}x^{-3}x^{-1}x^5 &= x^{-2-3-1+5} = x^{-1} \tag{4.4}
 \frac{x^{63}}{x^{63}} &= x^{63-63} = 1 \tag{7.4}
 \end{align}
 ```
+---
 - Simplifica aplicando leyes de exponentes:
 ```math
 \begin{align}
