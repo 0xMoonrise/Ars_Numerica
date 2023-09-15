@@ -51,7 +51,7 @@ $\\$
 a) & \underline{3} \\
 b) & \underline{8\pi} \\
 c) & \underline{3sen(\frac{1}{4}x)+4} \\
-d) & \underline{\frac{1}{4}sen(6x-12)} \\
+d) & \underline{3sen(\frac{1}{4}x-\frac{1}{2})} \\
 \end{align*}
 \end{center}
 
@@ -62,7 +62,7 @@ d) & \underline{\frac{1}{4}sen(6x-12)} \\
 a) & \underline{1} \\
 b) & \underline{4\pi} \\
 c) & \underline{cos(\frac{3}{6}x)+4} \\
-d) & \underline{cos(\frac{3}{6}x-1)} \\
+d) & \underline{cos(\frac{3}{6}x-1}) \\
 \end{align*}
 \end{center}
 
