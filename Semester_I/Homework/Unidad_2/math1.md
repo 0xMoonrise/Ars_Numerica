@@ -2,7 +2,7 @@
 ### Ejercicios Funciones Trigonometricas
 #### Jose Carlos Nunez Garcia
 
--------------
+$\\$
 
 **Ejercicio 1**
 
@@ -13,7 +13,9 @@ Obtener:
     c) Mover 4 unidades hacia arriba en eje y.
     d) Mover 2 unidades a la derecha en eje x. 
 
------------
+\begin{center}
+\rule{\textwidth}{0.5pt}
+\end{center}
 
 1) $2sen(3x)$
 
@@ -26,7 +28,9 @@ d) & \underline{2sen(3x-6)} \\
 \end{align*}
 \end{center}
 
------------
+\begin{center}
+\rule{\textwidth}{0.5pt}
+\end{center}
 
 2) $\frac{1}{4}sen(6x)$
 
@@ -55,6 +59,10 @@ d) & \underline{3sen(\frac{1}{4}x-\frac{1}{2})} \\
 \end{align*}
 \end{center}
 
+\begin{center}
+\rule{\textwidth}{0.5pt}
+\end{center}
+
 4) $cos(\frac{3}{6}x)$ 
 
 \begin{center}
@@ -66,7 +74,9 @@ d) & \underline{cos(\frac{3}{6}x-1}) \\
 \end{align*}
 \end{center}
 
------------
+\begin{center}
+\rule{\textwidth}{0.5pt}
+\end{center}
 
 5) $\frac{-2}{3}cos(-2x)$
 
@@ -97,7 +107,9 @@ d) & \underline{-3sen(-x+2)} \\
 \end{align*}
 \end{center}
 
--------------
+\begin{center}
+\rule{\textwidth}{0.5pt} 
+\end{center}
 
 7) $\frac{2}{6}cos(-5x)$
 
@@ -110,7 +122,9 @@ d) & \underline{\frac{2}{6}cos(-5x+10)} \\
 \end{align*}
 \end{center}
 
------------
+\begin{center}
+\rule{\textwidth}{0.5pt}
+\end{center}
 
 8) $\frac{1}{3}cos(\frac{1}{3}x)$
 
@@ -134,7 +148,9 @@ $\\$
 
     a) Simplificar utilizando las identidades trigonométricas
 
------------
+\begin{center}
+\rule{\textwidth}{0.5pt}
+\end{center}
 
 1) $cos(x)tan(x)$
 \begin{center}
@@ -144,7 +160,9 @@ cos(x)tan(x)&=cos(x)\frac{sen(x)}{cos(x)}\\
 \end{align*}
 \end{center}
 
------------
+\begin{center}
+\rule{\textwidth}{0.5pt}
+\end{center}
 
 2) $sen(x)sec(x)$
 \begin{center}
@@ -155,7 +173,9 @@ sen(x)sec(x)&=\frac{sen(x)}{cos(x)} \\
 \end{align*}
 \end{center}
 
------------
+\begin{center}
+\rule{\textwidth}{0.5pt}
+\end{center}
 
 3) $tan(x)csc(x)$
 \begin{center}
@@ -188,7 +208,9 @@ sen(u)+cot(u)cos(u) &= \frac{1}{sen(u)} \\
 \end{align*}
 \end{center}
 
------------
+\begin{center}
+\rule{\textwidth}{0.5pt}
+\end{center}
 
 5) $cos^2(\theta)(1+tan^2(\theta)$
 \begin{center}
@@ -227,7 +249,9 @@ $\\$
 \end{align*}
 \end{center}
 
------------
+\begin{center}
+\rule{\textwidth}{0.5pt}
+\end{center}
 
 7) $\frac{sen(x)sec(x)}{tan(x)}$
 \begin{center}
@@ -265,7 +289,9 @@ $\\$
 \end{align*}
 \end{center}
 
---------------
+\begin{center}
+\rule{\textwidth}{0.5pt}
+\end{center}
 
 9) $\frac{sen(x)}{csc(x)}+\frac{cos(x)}{sec(x)}$
 \begin{center}
